@@ -8,4 +8,5 @@ Here's the link 🔗 to get started: https://memories1434.netlify.app/login
 
 You'll have full control over your 🔐 privacy, and I promise it's super easy to use. Plus, I'd really appreciate your feedback as we're just getting started. ✨
 
-Let me know if you have any questions or need help signing up. Can't wait to see your amazing memories on there! 🥂
+Let me know if you have any questions or need help signing up. ( tibadiyayash@gmail.com )
+Can't wait to see your amazing memories on there! 🥂
