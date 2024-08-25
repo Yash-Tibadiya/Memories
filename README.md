@@ -1,5 +1,7 @@
 # Memories
 
+- I created fully responsive FullStack or MERN Stack Social Media application using MongoDB, ExpressJs, Reactjs, NodeJs, and tailwind css for styling our UI
+
 Hello, every one! 👋
 
 I wanted to share something exciting with you. I've recently launched a new website where you can share your photos 📷 and create beautiful memories with friends 👬👭👫 and family 👪. It's a great way to stay connected🤝 and relive special moments☘ together. I'd love 🖤 for you to join our growing community and be a part of it! 😊😅
